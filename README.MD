@@ -1,0 +1,2 @@
+﻿Te falta modificar la parte del script dependiendo si se lo envias a un celular o a una computadora, la parte de redireccion que dice "m.facebook.com"
+Crea una eventualidad para que detecte si la pagina esta siendo mostrada en un celular o computadora y mostrar una u otra pagina o hazlo manual si sabes a quien lo estas enviando y que dispositivo esta utilizando.
